@@ -33,7 +33,7 @@ A real-time portfolio risk monitoring dashboard for quantitative traders and ris
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/risk-monitor-dashboard.git
+git clone https://github.com/Matthew-Carlino/risk-monitor-dashboard.git
 cd risk-monitor-dashboard
 
 # Create virtual environment
